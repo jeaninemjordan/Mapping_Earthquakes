@@ -14,7 +14,7 @@ In this project, the latest earthquake GeoJSON data from the US Geological Surve
 
 #### Data
 
-* GeoJSON data from: https://earthquake.usgs.gov/data/data.php#eq
+* GeoJSON data from: https://earthquake.usgs.gov/data
 * majorAirports.json
 * torontoNeighborhoods.json
 * torontoRoutes.json
