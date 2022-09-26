@@ -53,7 +53,9 @@ Below is a screenshot of the dark view layer of the map, only depicting earthqua
 
 ![](Images/darkearthquakes.jpg) 
 
-Below is a screenshot of the dark view layer of the map, only depicting earthquakes and major earthquakes:
+Below is a screenshot of the satelite view layer of the map, only depicting the fault lines:
+
+![](Images/satelitetectonic.jpg) 
 
  Below is a screenshot plotting the earthquakes within the last seven days onto the map:
  ![](Images/past7days.jpg)
