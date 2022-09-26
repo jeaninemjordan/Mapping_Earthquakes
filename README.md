@@ -69,10 +69,10 @@ Below is a screenshot of the satelite view layer of the map, only depicting the 
  Below are screenshots plotting multiple points onto the map that displays the major airports near faultlines: 
  ![](Images/airportpoints.jpg)  ![](Images/airportpointszoom.jpg)
  
-Below is a screenshot plotting lines on the map:
+Below is a screenshot plotting lines on a map of the United States:
  ![](Images/mappinglines.jpg)
  
-Below is a screenshot plotting polygons on the map:
+Below is a screenshot plotting the neighborhoods of Toronto, CA on the map:
  ![](Images/polygons.jpg)
  
 Below is a screenshot plotting linestrings on the map:
