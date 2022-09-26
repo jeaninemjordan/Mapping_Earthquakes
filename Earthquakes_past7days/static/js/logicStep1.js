@@ -38,7 +38,7 @@ L.control.layers(baseMaps).addTo(map);
 //streets.addTo(map);
 
 // Accessing the Toronto airline routes GeoJSON URL.
-//let torontoHoods = "https://raw.githubusercontent.com/aolayeye/Mapping_Earthquakes/main/torontoNeighborhoods.json";
+//let torontoHoods = "https://raw.githubusercontent.com/jeaninemjordan/Mapping_Earthquakes/main/torontoNeighborhoods.json";
 
 
 
