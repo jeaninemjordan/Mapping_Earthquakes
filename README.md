@@ -60,10 +60,10 @@ Below is a screenshot of the satelite view layer of the map, only depicting the 
  Below is a screenshot plotting the earthquakes within the last seven days onto the map:
  ![](Images/past7days.jpg)
  
- Below is a screenshot plotting a single point on the map:
+ Below is a screenshot plotting a single point (Los Angeles, CA) on the map:
  ![](Images/mappingsinglepoints.jpg)
  
- Below is a screenshot plotting a multiple points on the map:
+ Below is a screenshot plotting a multiple points (New York City NY, Chicago IL, Houston TX, Phoenix AZ and Los Angeles CA) on the map:
  ![](Images/mappingmultiplepoints.jpg)
  
  Below are screenshots plotting multiple points onto the map that displays the major airports near faultlines: 
