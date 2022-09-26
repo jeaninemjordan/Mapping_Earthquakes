@@ -69,9 +69,9 @@ Below is a screenshot of the satelite view layer of the map, only depicting the 
  Below are screenshots plotting multiple points onto the map that displays the major airports near faultlines: 
  ![](Images/airportpoints.jpg)  ![](Images/airportpointszoom.jpg)
  
-To experiment with different methods of plotting on the map, the city of Toronto, CA was chosen to display linestring and polygon maps (below)
+To experiment with different methods of plotting on the map, the city of Toronto, CA was chosen to display linestring and polygon maps (below).
 
-Below is a screenshot plotting lines on a map of the United States:
+Below is a screenshot plotting lines on a map of Toronto, CA routing through the United States:
  ![](Images/mappinglines.jpg)
  
 Below is a screenshot plotting the neighborhoods of Toronto, CA on the map:
