@@ -2,6 +2,8 @@
  
  ## Creating interactive maps using Leaflet.js, GeoJSON data, Javascript, the D3.js library and APIs to explore earthquakes around the world.
  
+ ![](Images/earthquakeheader.jpg)
+ 
 ### Project Overview
 
 Earthquakes are caused by sudden slips on fault planes. Tectonic plates are always slowly moving, but they become stuck at their edges due to friction. When the stress on the edges overcomes the friction, there is an earthquake that releases the energy in seismic waves that travel through the earth’s crust and cause the ground surface to shake. 
