@@ -32,8 +32,48 @@ In this project, the latest earthquake GeoJSON data from the US Geological Surve
 
 The map can be viewed in three different layer templates: street view, satellite view and dark view. Earthquakes, major earthquakes and fault lines can be selected and deselected to customize the user’s visualization. The map can be zoomed in and out upon and moved to suit the user’s needs and pop-up markers are displayed when one of the color-coded markers is selected. Not only are the markers color coded depending on their magnitudes, but they are also coded by size as well. This data allows the user to observe the relationships between seismic activity and tectonic plates.
 
+Below is a zoomed in snapshot of the state of California and it's earthquakes, color and size coded by magnitude with a visible pop-up marker:
+
+ ![](Images/zoomin.jpg) 
+ 
+The screenshots below depict the map key and overlay controls on the interactive map:
+
+ ![](Images/mapkey.jpg) ![](Images/overlays_controls.jpg) 
+
 URLs are used to obtain the GeoJSON earthquake data, geographical coordinates, tectonic plate boundaries and magnitudes from the US Geological Survey website. Javascript and D3.js is used to retrieve the coordinates and magnitudes from the GeoJSON data and the Leaflet library is used to plot the data retrieved and add multiple layers onto a Mapbox map through an API call. This creates the interactive functionality of the map. 
 
 The interactive map is viewable on the webpage below:
 https://jeaninemjordan.github.io/mapearthquakesdeploy.io/
+
+Below is a screenshot of the street layer view of the map, depicting the tecnonic plates, earthquakes and major earthquakes: 
+
+![](Images/streetlayer_all.jpg) 
+
+Below is a screenshot of the dark view layer of the map, only depicting earthquakes and major earthquakes:
+
+![](Images/darkearthquakes.jpg) 
+
+Below is a screenshot of the dark view layer of the map, only depicting earthquakes and major earthquakes:
+
+ Below is a screenshot plotting the earthquakes within the last seven days onto the map:
+ ![](Images/past7days.jpg)
+ 
+ Below is a screenshot plotting a single point on the map:
+ ![](Images/mappingsinglepoints.jpg)
+ 
+ Below is a screenshot plotting a multiple points on the map:
+ ![](Images/mappingmultiplepoints.jpg)
+ 
+ Below are screenshots plotting multiple points onto the map that displays the major airports near faultlines: 
+ ![](Images/airportpoints.jpg)  ![](Images/airportpointszoom.jpg)
+ 
+Below is a screenshot plotting lines on the map:
+ ![](Images/mappinglines.jpg)
+ 
+Below is a screenshot plotting polygons on the map:
+ ![](Images/polygons.jpg)
+ 
+Below is a screenshot plotting linestrings on the map:
+  ![](Images/linestrings.jpg)
+ 
 
