@@ -75,7 +75,7 @@ Below is a screenshot plotting lines on a map of the United States:
 Below is a screenshot plotting the neighborhoods of Toronto, CA on the map:
  ![](Images/polygons.jpg)
  
-Below is a screenshot plotting linestrings on the map:
+Below is a screenshot plotting linestrings that visualize the routes that can be made from Toronto, CA on the map:
   ![](Images/linestrings.jpg)
  
 
